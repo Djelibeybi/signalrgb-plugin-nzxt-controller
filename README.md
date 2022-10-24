@@ -1,7 +1,4 @@
-# NZXT Case Controller plugin for SignalRGB
+# ARCHIVED! 
 
-This plugin enables fan control for the NZXT Case Controller that ships with the H710i case.
+NZXT Case Controller plugin for SignalRGB (is now in SignalRGB)
 
-## Unsupported
-
-This plugin is not supported by SignalRGB or me. Use at your own risk.
